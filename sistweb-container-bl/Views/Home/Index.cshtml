@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Página Inicial";
+}
+
+<style>
+    .main-menu-card {
+        padding: 1.5rem;
+        margin-bottom: 1.5rem;
+        transition: transform .2s; 
+    }
+
+        .main-menu-card:hover {
+            transform: scale(1.05); 
+        }
+
+        .main-menu-card .card-title {
+            font-size: 1.5rem;
+        }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Sistema de Gerenciamento</h1>
+    <p class="lead">Selecione uma das opções abaixo para começar.</p>
+</div>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+
+        <div class="col-md-4">
+            <div class="card text-center main-menu-card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Gerenciar BLs</h5>
+                    <p class="card-text">Crie, edite e visualize seus Bills of Lading.</p>
+                    <a asp-controller="BL" asp-action="Index" class="btn btn-primary">Acessar</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-center main-menu-card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Gerenciar Containers</h5>
+                    <p class="card-text">Cadastre containers e associe-os a um BL.</p>
+                    <a asp-controller="Containers" asp-action="Index" class="btn btn-primary">Acessar</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-center main-menu-card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Relatório Completo</h5>
+                    <p class="card-text">Visualize todos os BLs e seus containers.</p>
+                    <a asp-controller="Relatorio" asp-action="Index" class="btn btn-primary">Acessar</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,25 @@
+﻿@model sistweb_container_bl.Models.BL
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes do BL</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.numero)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.numero)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.consignee)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.consignee)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.navio)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.navio)</dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
+    <a asp-action="Index">Voltar para a Lista</a>
+</div>

@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\sistweb-container-bl\\sistweb-container-bl\\views\\containers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|solutionrelative:sistweb-container-bl\\views\\containers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\sistweb-container-bl\\sistweb-container-bl\\views\\containers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|solutionrelative:sistweb-container-bl\\views\\containers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\sistweb-container-bl\\sistweb-container-bl\\views\\bl\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|solutionrelative:sistweb-container-bl\\views\\bl\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\sistweb-container-bl\\sistweb-container-bl\\models\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|solutionrelative:sistweb-container-bl\\models\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\sistweb-container-bl\\sistweb-container-bl\\controllers\\containerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|solutionrelative:sistweb-container-bl\\controllers\\containerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\sistweb-container-bl\\sistweb-container-bl\\controllers\\blcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|solutionrelative:sistweb-container-bl\\controllers\\blcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\sistweb-container-bl\\sistweb-container-bl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|solutionrelative:sistweb-container-bl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\sistweb-container-bl\\sistweb-container-bl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2CD8BA-2866-4134-92F5-64510FB1A91B}|sistweb-container-bl\\sistweb-container-bl.csproj|solutionrelative:sistweb-container-bl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Views\\Containers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "sistweb-container-bl\\Views\\Containers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Views\\Containers\\Edit.cshtml",
+              "RelativeToolTip": "sistweb-container-bl\\Views\\Containers\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T21:20:30.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Models\\Banco.cs",
+              "RelativeDocumentMoniker": "sistweb-container-bl\\Models\\Banco.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Models\\Banco.cs",
+              "RelativeToolTip": "sistweb-container-bl\\Models\\Banco.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:32:14.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Views\\BL\\Create.cshtml",
+              "RelativeDocumentMoniker": "sistweb-container-bl\\Views\\BL\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Views\\BL\\Create.cshtml",
+              "RelativeToolTip": "sistweb-container-bl\\Views\\BL\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T20:30:48.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContainersController.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Controllers\\ContainersController.cs",
+              "RelativeDocumentMoniker": "sistweb-container-bl\\Controllers\\ContainersController.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Controllers\\ContainersController.cs",
+              "RelativeToolTip": "sistweb-container-bl\\Controllers\\ContainersController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:32:33.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Views\\Containers\\Create.cshtml",
+              "RelativeDocumentMoniker": "sistweb-container-bl\\Views\\Containers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Views\\Containers\\Create.cshtml",
+              "RelativeToolTip": "sistweb-container-bl\\Views\\Containers\\Create.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T20:50:04.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BLController.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Controllers\\BLController.cs",
+              "RelativeDocumentMoniker": "sistweb-container-bl\\Controllers\\BLController.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Controllers\\BLController.cs",
+              "RelativeToolTip": "sistweb-container-bl\\Controllers\\BLController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:32:22.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\appsettings.json",
+              "RelativeDocumentMoniker": "sistweb-container-bl\\appsettings.json",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\appsettings.json",
+              "RelativeToolTip": "sistweb-container-bl\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T20:45:16.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "sistweb-container-bl\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\sistweb-container-bl\\sistweb-container-bl\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "sistweb-container-bl\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:32:43.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
