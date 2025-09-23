@@ -1,0 +1,76 @@
+﻿@model sistweb_container_bl.Models.Container
+
+@{
+    ViewData["Title"] = "Criar Container";
+}
+
+<h1>Criar Container</h1>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger mt-3">
+        <strong>Por favor, corrija os seguintes erros:</strong>
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="numero" class="control-label"></label>
+                <input asp-for="numero" class="form-control" />
+                <span asp-validation-for="numero" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tipo" class="control-label"></label>
+                <select asp-for="tipo" class="form-control">
+                    <option value="">-- Selecione o tipo --</option>
+                    <option value="Dry">Dry</option>
+                    <option value="Reefer">Reefer</option>      
+                </select>
+                <span asp-validation-for="tipo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tamanho" class="control-label"></label>
+                <select asp-for="tamanho" class="form-control">
+                    <option value="">-- Selecione o tamanho --</option>
+                    <option value="20">20</option>
+                    <option value="40">40</option>
+                </select>
+                <span asp-validation-for="tamanho" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="id_bl" class="control-label">BL</label>
+                <select asp-for="id_bl" class="form-control" asp-items="ViewBag.id_bl">
+                    <option value="">-- Selecione um BL --</option>
+                </select>
+                <span asp-validation-for="id_bl" class="text-danger"></span>
+            </div>
+
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar para a Lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
