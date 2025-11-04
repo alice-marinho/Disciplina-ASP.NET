@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp03\\gerenciador produtos\\gerenciador produtos\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|solutionrelative:gerenciador produtos\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp03\\gerenciador produtos\\gerenciador produtos\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|solutionrelative:gerenciador produtos\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp03\\gerenciador produtos\\gerenciador produtos\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|solutionrelative:gerenciador produtos\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp03\\gerenciador produtos\\gerenciador produtos\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|solutionrelative:gerenciador produtos\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp03\\gerenciador produtos\\gerenciador produtos\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|solutionrelative:gerenciador produtos\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp03\\gerenciador produtos\\gerenciador produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|solutionrelative:gerenciador produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp03\\gerenciador produtos\\gerenciador produtos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|solutionrelative:gerenciador produtos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp03\\gerenciador produtos\\gerenciador produtos\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|solutionrelative:gerenciador produtos\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp03\\gerenciador produtos\\gerenciador produtos\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|solutionrelative:gerenciador produtos\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp03\\gerenciador produtos\\gerenciador produtos\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B707C708-1F1B-4FD0-8425-11C0E2EE9382}|gerenciador produtos\\gerenciador produtos.csproj|solutionrelative:gerenciador produtos\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "gerenciador produtos\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "gerenciador produtos\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T21:04:33.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\appsettings.json",
+              "RelativeDocumentMoniker": "gerenciador produtos\\appsettings.json",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\appsettings.json",
+              "RelativeToolTip": "gerenciador produtos\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T20:12:43.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "gerenciador produtos\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "gerenciador produtos\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T20:04:09.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "gerenciador produtos\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "gerenciador produtos\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T20:03:55.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "gerenciador produtos\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "gerenciador produtos\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T20:03:56.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "gerenciador produtos\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "gerenciador produtos\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA4wEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:03:30.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "gerenciador produtos\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "gerenciador produtos\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T20:02:32.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "gerenciador produtos\\Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "gerenciador produtos\\Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:00:09.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Program.cs",
+              "RelativeDocumentMoniker": "gerenciador produtos\\Program.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Program.cs",
+              "RelativeToolTip": "gerenciador produtos\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:58:56.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "gerenciador produtos\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP03\\gerenciador produtos\\gerenciador produtos\\Models\\Product.cs",
+              "RelativeToolTip": "gerenciador produtos\\Models\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:57:37.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

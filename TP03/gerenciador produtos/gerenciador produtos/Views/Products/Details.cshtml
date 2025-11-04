@@ -1,0 +1,12 @@
+﻿@model gerenciador_produtos.Models.Product
+
+<h2>Detalhes do Produto</h2>
+
+<div>
+    <h4>@Model.Nome</h4>
+    <p><strong>Descrição:</strong> @Model.Descricao</p>
+    <p><strong>Preço:</strong> @Model.Preco</p>
+    <p><strong>Quantidade em Estoque:</strong> @Model.Qtde_estoque</p>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary">Voltar</a>

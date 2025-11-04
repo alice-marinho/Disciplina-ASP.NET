@@ -1,0 +1,53 @@
+﻿@model IEnumerable<gerenciador_produtos.Models.Product>
+
+@{
+    ViewData["Title"] = "Produtos";
+}
+
+<h1 class="text-center mb-4">Gerenciamento de Produtos</h1>
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="mb-0">Lista de Produtos</h4>
+    <a class="btn btn-success" href="/Products/Create">
+        Criar novo produto
+    </a>
+</div>
+
+@if (Model == null || !Model.Any())
+{
+    <div class="alert alert-info text-center mt-4" role="alert">
+        <strong>Nenhum produto cadastrado ainda.</strong>
+        <br />
+        Clique em <a href="/Products/Create" class="alert-link">"Criar novo produto"</a> para adicionar o primeiro.
+    </div>
+}
+else
+{
+    <table class="table table-hover align-middle shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>Nome</th>
+                <th>Preço</th>
+                <th>Quantidade</th>
+                <th class="text-center">Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Preco.ToString("C")</td>
+                    <td>@item.Qtde_estoque</td>
+                    <td class="text-center">
+                        <div class="btn-group" role="group">
+                            <a href="/Products/Details/@item.Id" class="btn btn-sm btn-primary">Detalhes</a>
+                            <a href="/Products/Edit/@item.Id" class="btn btn-sm btn-warning text-white">Editar</a>
+                            <a href="/Products/Delete/@item.Id" class="btn btn-sm btn-danger">Excluir</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
