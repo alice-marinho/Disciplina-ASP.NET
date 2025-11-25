@@ -1,0 +1,96 @@
+﻿@model IEnumerable<Model.Produto>
+@{
+    ViewData["Title"] = "Mercadinho IFSP";
+}
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4 p-4 bg-success text-white rounded-3 shadow">
+        <div>
+            <h1 class="display-6 fw-bold mb-0"><i class="bi bi-shop"></i> Mercado IFSP</h1>
+            <p class="mb-0 opacity-75">Gestão de Estoque e Preços</p>
+        </div>
+        <a asp-action="Novo" class="btn btn-light btn-lg text-success fw-bold shadow-sm">
+            <i class="bi bi-plus-circle-dotted"></i> Novo Produto
+        </a>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="card shadow border-0">
+            <div class="card-body p-0">
+                <table class="table table-hover table-striped align-middle mb-0">
+                    <thead class="bg-light">
+                        <tr>
+                            <th class="ps-4 py-3 text-uppercase small text-muted">Produto</th>
+                            <th class="py-3 text-uppercase small text-muted">Seção</th>
+                            <th class="py-3 text-uppercase small text-muted">Preço</th>
+                            <th class="text-end pe-4 py-3 text-uppercase small text-muted">Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="ps-4">
+                                    <span class="fw-bold text-dark d-block">@item.Nome</span>
+                                    <small class="text-muted">@item.Descricao</small>
+                                </td>
+                                <td>
+                                    @{
+                                        string badgeClass = item.Categoria.ToString() switch
+                                        {
+                                            "Hortifruti" => "bg-success",
+                                            "Carnes" => "bg-danger",
+                                            "Bebidas" => "bg-info text-dark",
+                                            "Padaria" => "bg-warning text-dark",
+                                            "Limpeza" => "bg-primary",
+                                            _ => "bg-secondary"
+                                        };
+                                    }
+                                    <span class="badge @badgeClass rounded-pill px-3 py-2">
+                                        @item.Categoria
+                                    </span>
+                                </td>
+                                <td>
+                                    <span class="fw-bold text-success fs-5">@item.Preco.ToString("C2")</span>
+                                </td>
+                                <td class="text-end pe-4">
+                                    <a asp-action="Editar" asp-route-id="@item.Id" class="btn btn-outline-warning btn-sm me-1" title="Editar">
+                                        <i class="bi bi-pencil-fill"></i>
+                                    </a>
+                                    <a asp-action="Remover" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" title="Excluir" onclick="return confirm('Tem certeza que deseja remover este item da prateleira?');">
+                                        <i class="bi bi-trash-fill"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="text-center py-5">
+            <div class="mb-3 text-muted opacity-50">
+                <i class="bi bi-basket3 display-1"></i>
+            </div>
+            <h3 class="fw-bold text-secondary">As prateleiras estão vazias!</h3>
+            <p class="text-muted">Nenhum produto foi cadastrado no sistema ainda.</p>
+            <a asp-action="Novo" class="btn btn-success mt-3">
+                Começar a Cadastrar
+            </a>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch('/api/produtosapi')
+                .then(res => res.json())
+                .then(data => console.log("API OK:", data))
+                .catch(err => console.error("Erro API:", err));
+        });
+    </script>
+}

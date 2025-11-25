@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "TP04.Controllers.Api.ProdutosApiController",
+    "Method": "Get",
+    "RelativePath": "api/ProdutosApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TP04.Controllers.Api.ProdutosApiController",
+    "Method": "Post",
+    "RelativePath": "api/ProdutosApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "produto",
+        "Type": "Model.Produto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TP04.Controllers.Api.ProdutosApiController",
+    "Method": "Get",
+    "RelativePath": "api/ProdutosApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TP04.Controllers.Api.ProdutosApiController",
+    "Method": "Put",
+    "RelativePath": "api/ProdutosApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "produto",
+        "Type": "Model.Produto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TP04.Controllers.Api.ProdutosApiController",
+    "Method": "Delete",
+    "RelativePath": "api/ProdutosApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

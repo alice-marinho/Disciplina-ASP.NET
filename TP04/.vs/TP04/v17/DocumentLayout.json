@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\views\\produto\\novo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\views\\produto\\novo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\models\\produtoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\models\\produtoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2AA394-86E8-4221-A461-87AB84E182EE}|DAL\\DAL.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\dal\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2AA394-86E8-4221-A461-87AB84E182EE}|DAL\\DAL.csproj|solutionrelative:dal\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F8705C-FFFD-4FC1-B47F-AD59CBF73616}|Model\\Model.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F8705C-FFFD-4FC1-B47F-AD59CBF73616}|Model\\Model.csproj|solutionrelative:model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F8705C-FFFD-4FC1-B47F-AD59CBF73616}|Model\\Model.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\model\\categoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F8705C-FFFD-4FC1-B47F-AD59CBF73616}|Model\\Model.csproj|solutionrelative:model\\categoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2AA394-86E8-4221-A461-87AB84E182EE}|DAL\\DAL.Produto.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\dal\\produtoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2AA394-86E8-4221-A461-87AB84E182EE}|DAL\\DAL.Produto.csproj|solutionrelative:dal\\produtoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\tp04\\controllers\\api\\produtosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56786257-B331-4A05-AA4B-4770C95EFC63}|TP04\\TP04.csproj|solutionrelative:tp04\\controllers\\api\\produtosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2AA394-86E8-4221-A461-87AB84E182EE}|DAL\\DAL.Produtos.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\dal\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2AA394-86E8-4221-A461-87AB84E182EE}|DAL\\DAL.Produtos.csproj|solutionrelative:dal\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2AA394-86E8-4221-A461-87AB84E182EE}|DAL\\DAL.Produto.csproj|c:\\users\\alice\\source\\repos\\sistweb2\\trabalhos pr\u00E1ticos\\tp04\\dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2AA394-86E8-4221-A461-87AB84E182EE}|DAL\\DAL.Produto.csproj|solutionrelative:dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 331,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 69,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-25T20:58:23.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TP04\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TP04\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T20:47:33.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\Model\\CategoriaProduto.cs",
+              "RelativeDocumentMoniker": "Model\\CategoriaProduto.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\Model\\CategoriaProduto.cs",
+              "RelativeToolTip": "Model\\CategoriaProduto.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:31:51.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TP04\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TP04\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T19:55:08.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TP04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TP04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADgvyAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T19:51:25.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TP04\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TP04\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T19:51:11.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TP04\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TP04\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T19:43:31.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TP04\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TP04\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:36:08.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Produto\\Editar.cshtml",
+              "RelativeDocumentMoniker": "TP04\\Views\\Produto\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Produto\\Editar.cshtml",
+              "RelativeToolTip": "TP04\\Views\\Produto\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T19:33:28.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Novo.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Produto\\Novo.cshtml",
+              "RelativeDocumentMoniker": "TP04\\Views\\Produto\\Novo.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Produto\\Novo.cshtml",
+              "RelativeToolTip": "TP04\\Views\\Produto\\Novo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T19:32:46.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "TP04\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "TP04\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T19:27:34.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Models\\ProdutoExtensions.cs",
+              "RelativeDocumentMoniker": "TP04\\Models\\ProdutoExtensions.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Models\\ProdutoExtensions.cs",
+              "RelativeToolTip": "TP04\\Models\\ProdutoExtensions.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:21:15.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Models\\ProdutoViewModel.cs",
+              "RelativeDocumentMoniker": "TP04\\Models\\ProdutoViewModel.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Models\\ProdutoViewModel.cs",
+              "RelativeToolTip": "TP04\\Models\\ProdutoViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:20:06.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\appsettings.json",
+              "RelativeDocumentMoniker": "TP04\\appsettings.json",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\appsettings.json",
+              "RelativeToolTip": "TP04\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T18:47:11.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Program.cs",
+              "RelativeDocumentMoniker": "TP04\\Program.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Program.cs",
+              "RelativeToolTip": "TP04\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:27:46.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "TP04\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "TP04\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:27:28.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProdutosApiController.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Controllers\\Api\\ProdutosApiController.cs",
+              "RelativeDocumentMoniker": "TP04\\Controllers\\Api\\ProdutosApiController.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\TP04\\Controllers\\Api\\ProdutosApiController.cs",
+              "RelativeToolTip": "TP04\\Controllers\\Api\\ProdutosApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:24:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProdutoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\DAL\\ProdutoConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\ProdutoConfiguration.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\DAL\\ProdutoConfiguration.cs",
+              "RelativeToolTip": "DAL\\ProdutoConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:18:18.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\DAL\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\DAL\\IRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:15:51.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\DAL\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\DAL\\ProdutoRepository.cs",
+              "RelativeToolTip": "DAL\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:10:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutoContext.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\DAL\\ProdutoContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ProdutoContext.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\DAL\\ProdutoContext.cs",
+              "RelativeToolTip": "DAL\\ProdutoContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:33:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\SistWeb2\\Trabalhos Pr\u00E1ticos\\TP04\\Model\\Produto.cs",
+              "RelativeToolTip": "Model\\Produto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:01:33.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
