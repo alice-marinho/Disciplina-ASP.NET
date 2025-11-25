@@ -8,6 +8,9 @@ O projeto consiste no desenvolvimento de uma Web API RESTful utilizando ASP.NET 
 * **Nome:** Alice Marinho
 * **Professor:** Wellington Tuler Moraes
 
+## 📹 Video
+<https://youtu.be/6zyK1Yn8-JQ>
+
 ## 🚀 Funcionalidades
 
 O sistema permite o gerenciamento completo (CRUD) da entidade **Produto**, atendendo aos requisitos do trabalho:
@@ -39,35 +42,3 @@ A solução está organizada para atender ao requisito de integração com DLLs:
 ### Pré-requisitos
 * .NET SDK instalado.
 * Banco de Dados configurado.
-
-### Passo a Passo
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    ```
-
-2.  **Configurar Banco de Dados:**
-    Verifique a *Connection String* no arquivo `appsettings.json` na pasta da API e ajuste para o seu ambiente local.
-
-3.  **Aplicar Migrations:**
-    Abra o terminal na pasta do projeto e execute para criar as tabelas:
-    ```bash
-    dotnet ef database update
-    ```
-
-4.  **Executar a API:**
-    ```bash
-    dotnet run --project ./MyProject.API
-    ```
-    A API estará acessível em `https://localhost:7xxx/swagger` (ou a porta configurada).
-
-5.  **Acessar a Página Web:**
-    Abra o arquivo `index.html` diretamente no navegador ou via servidor estático para testar o CRUD[cite: 25].
-
-## 🧪 Testes
-
-[cite_start]Foram implementados testes unitários para garantir o funcionamento da API[cite: 28]. Para executá-los:
-
-```bash
-dotnet test
