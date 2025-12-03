@@ -1,0 +1,57 @@
+﻿@model PROVA02.Models.ProdutoViewModel
+@{
+    ViewData["Title"] = "Editar Item";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-6">
+            <div class="card shadow-lg border-0 rounded-3">
+                <div class="card-header bg-warning text-dark py-3">
+                    <h4 class="mb-0 fw-bold"><i class="bi bi-pencil-square"></i> Editar Item</h4>
+                </div>
+
+                <div class="card-body p-4">
+                    <form asp-action="Editar">
+                        <input type="hidden" asp-for="Id" />
+
+                        <div class="mb-3">
+                            <label asp-for="Nome" class="form-label fw-bold">Nome do Item</label>
+                            <input asp-for="Nome" class="form-control form-control-lg" />
+                            <span asp-validation-for="Nome" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Preco" class="form-label fw-bold">Preço</label>
+                            <div class="input-group">
+                                <span class="input-group-text bg-light fw-bold">R$</span>
+                                <input asp-for="Preco" class="form-control" type="number" step="0.01" />
+                            </div>
+                            <span asp-validation-for="Preco" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4 form-check form-switch p-3 bg-light border rounded">
+                            <input class="form-check-input ms-0 me-2" type="checkbox" asp-for="Status" style="transform: scale(1.3);">
+                            <label class="form-check-label fw-bold pt-1" asp-for="Status">
+                                &nbsp;&nbsp;&nbsp;Disponível em Estoque
+                            </label>
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-warning btn-lg shadow-sm">
+                                Salvar Alterações
+                            </button>
+                            <a asp-action="Index" class="btn btn-outline-secondary">Voltar</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

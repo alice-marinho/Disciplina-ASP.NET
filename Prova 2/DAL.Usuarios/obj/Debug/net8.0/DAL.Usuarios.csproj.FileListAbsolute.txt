@@ -1,0 +1,16 @@
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\bin\Debug\net8.0\DAL.Usuarios.deps.json
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\bin\Debug\net8.0\DAL.Usuarios.dll
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\bin\Debug\net8.0\DAL.Usuarios.pdb
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\bin\Debug\net8.0\Model.dll
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\bin\Debug\net8.0\Model.pdb
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\DAL.Usuarios.csproj.AssemblyReference.cache
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\DAL.Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\DAL.Usuarios.AssemblyInfoInputs.cache
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\DAL.Usuarios.AssemblyInfo.cs
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\DAL.Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\DAL.Usuarios.sourcelink.json
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\DAL.Usua.50EE4D5F.Up2Date
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\DAL.Usuarios.dll
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\refint\DAL.Usuarios.dll
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\DAL.Usuarios.pdb
+C:\Users\alice\source\repos\SistWeb2\Trabalhos Práticos\Prova 2\DAL.Usuarios\obj\Debug\net8.0\ref\DAL.Usuarios.dll
